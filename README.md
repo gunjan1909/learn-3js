@@ -7,7 +7,7 @@ This is a simple project created to learn how to use 3js and GSAP in combination
 To get started with this project, you will need to:
 
 - Clone the repository using
-  `git clone`
+  `git clone https://github.com/gunjan1909/learn-3js.git`
 - Install the dependencies using
   `npm install`
 - Run the project using
